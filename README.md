@@ -1,5 +1,7 @@
 # KEYCLOAK DOCKER
 
+Use KeyCloak docker with your local database.
+
 ## Configuration
 
 Create .env file with the following content and replace XXXXXXXXXXXX with the correct information :
